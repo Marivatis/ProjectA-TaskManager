@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_TaskManager.Classes.General.Task">
+    <Position X="0.5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQKAAAEABAgEAAAIAAIAAAAAAAAAIgAAAEAAAABAgE=</HashCode>
+      <FileName>Classes\General\Task.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.Classes.General.DataReader&lt;T&gt;">
+    <Position X="6.25" Y="2.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\General\DataReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab7_Martyniuk_program.Classes.General.DataWriter&lt;T&gt;">
+    <Position X="6.25" Y="4" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\General\DataWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_TaskManager.Classes.General.Program">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\General\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_TaskManager.Classes.General.TaskManager">
+    <Position X="3.25" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAIAAABARAAAABAQAAAAAAAgEAAgAAABQIAA=</HashCode>
+      <FileName>Classes\General\TaskManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project_TaskManager.Classes.Consoles.TablePrinter">
+    <Position X="6.25" Y="5.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Consoles\TablePrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Project_TaskManager.ITablePrintable">
+    <Position X="0.5" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ITablePrintable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Project_TaskManager.Interfaces.IDuplicateCheckable&lt;T&gt;">
+    <Position X="2.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Interfaces\IDuplicateCheckable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Project_TaskManager.Enums.TaskStatus">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Enums\TaskStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
