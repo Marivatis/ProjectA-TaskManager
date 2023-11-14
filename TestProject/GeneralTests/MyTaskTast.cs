@@ -1,10 +1,4 @@
 ﻿using Project_TaskManager.Classes.General;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Project_TaskManager.Enums;
 
 namespace TestProject.GeneralTests
